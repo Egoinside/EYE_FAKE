@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<script language="javascript">
+window.opener=null; 
+window.open('', '_self', '');//模拟自己打开自己
+setTimeout('window.close();', 1000); 
+</script>
 
-You can use the [editor on GitHub](https://github.com/Egoinside/EYE_FAKE/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>langweixian</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<a >hehe is an oh i m sorry this is not can we work can we ever stop damn it is contemporary man dont fuck it this time alright no no no what i i love emancipation perhaps pe modified me and us and them and Aleph we are not in dublin we are awake give him some drink she needs that cool i read an art review today its bloody incredible relatively comparing to my credit card u da one shit this is not working don’t tell me hehe amma gonna ask u a question could u do me a favour she s right right there s a jumbo pack man langweixian could be here langweixian could be there langweixian could beeee no risk no risk i admit i m a frog ya french guys loves me they should add some chiiiili i did it i ate pepper in advance taste it taste it that s what contemporary art is isnt it i enjoyed every seconds with u the sun rises and sets for u shit plz u said u hate fuck this shit shall we we we but still i no it relativity is way beyond aliened non human traveling around ur kidney and spleen oh damn right hehe hehe langweixian said one thing to me hehe she did what he should do i m not but langwei is like a parasitic alien or is he hehe langweixian alludes 
+	
+	dont open the door for me 
+whats the matter
+it is not automatic pal 
+alright alright smoke this shit 
+good nighthehe is an oh i m sorry this is not can we work can we ever stop damn it is contemporary man dont fuck it this time alright no no no what i i love emancipation perhaps pe modified me and us and them and Aleph we are not in dublin we are awake give him some drink she needs that cool i read an art review today its bloody incredible relatively comparing to my credit card u da one shit this is not working don’t tell me hehe amma gonna ask u a question could u do me a favour she s right right there s a jumbo pack man langweixian could be here langweixian could be there langweixian could beeee no risk no risk i admit i m a frog ya french guys loves me they should add some chiiiili i did it i ate pepper in advance taste it taste it that s what contemporary art is isnt it i enjoyed every seconds with u the sun rises and sets for u shit plz u said u hate fuck this shit shall we we we but still i no it relativity is way beyond aliened non human traveling around ur kidney and spleen oh damn right hehe hehe langweixian said one thing to me hehe she did what he should do i m not but langwei is like a parasitic alien or is he hehe langweixian alludes 
+	
+	dont open the door for me 
+whats the matter
+it is not automatic pal 
+alright alright smoke this shit 
+good nighthehe is an oh i m sorry this is not can we work can we ever stop damn it is contemporary man dont fuck it this time alright no no no what i i love emancipation perhaps pe modified me and us and them and Aleph we are not in dublin we are awake give him some drink she needs that cool i read an art review today its bloody incredible relatively comparing to my credit card u da one shit this is not working don’t tell me hehe amma gonna ask u a question could u do me a favour she s right right there s a jumbo pack man langweixian could be here langweixian could be there langweixian could beeee no risk no risk i admit i m a frog ya french guys loves me they should add some chiiiili i did it i ate pepper in advance taste it taste it that s what contemporary art is isnt it i enjoyed every seconds with u the sun rises and sets for u shit plz u said u hate fuck this shit shall we we we but still i no it relativity is way beyond aliened non human traveling around ur kidney and spleen oh damn right hehe hehe langweixian said one thing to me hehe she did what he should do i m not but langwei is like a parasitic alien or is he hehe langweixian alludes 
+	
+	dont open the door for me 
+whats the matter
+it is not automatic pal 
+alright alright smoke this shit 
+good nighthehe is an oh i m sorry this is not can we work can we ever stop damn it is contemporary man dont fuck it this time alright no no no what i i love emancipation perhaps pe modified me and us and them and Aleph we are not in dublin we are awake give him some drink she needs that cool i read an art review today its bloody incredible relatively comparing to my credit card u da one shit this is not working don’t tell me hehe amma gonna ask u a question could u do me a favour she s right right there s a jumbo pack man langweixian could be here langweixian could be there langweixian could beeee no risk no risk i admit i m a frog ya french guys loves me they should add some chiiiili i did it i ate pepper in advance taste it taste it that s what contemporary art is isnt it i enjoyed every seconds with u the sun rises and sets for u shit plz u said u hate fuck this shit shall we we we but still i no it relativity is way beyond aliened non human traveling around ur kidney and spleen oh damn right hehe hehe langweixian said one thing to me hehe she did what he should do i m not but langwei is like a parasitic alien or is he hehe langweixian alludes 
+	
+	dont open the door for me 
+whats the matter
+it is not automatic pal 
+alright alright smoke this shit 
+good nighthehe is an oh i m sorry this is not can we work can we ever stop damn it is contemporary man dont fuck it this time alright no no no what i i love emancipation perhaps pe modified me and us and them and Aleph we are not in dublin we are awake give him some drink she needs that cool i read an art review today its bloody incredible relatively comparing to my credit card u da one shit this is not working don’t tell me hehe amma gonna ask u a question could u do me a favour she s right right there s a jumbo pack man langweixian could be here langweixian could be there langweixian could beeee no risk no risk i admit i m a frog ya french guys loves me they should add some chiiiili i did it i ate pepper in advance taste it taste it that s what contemporary art is isnt it i enjoyed every seconds with u the sun rises and sets for u shit plz u said u hate fuck this shit shall we we we but still i no it relativity is way beyond aliened non human traveling around ur kidney and spleen oh damn right hehe hehe langweixian said one thing to me hehe she did what he should do i m not but langwei is like a parasitic alien or is he hehe langweixian alludes 
+	
+	dont open the door for me 
+whats the matter
+it is not automatic pal 
+alright alright smoke this shit 
+good night</a>
+</body>
+</html>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Egoinside/EYE_FAKE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
